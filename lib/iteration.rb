@@ -42,7 +42,7 @@ end
 i += 1
 
 end
-puts total
+total
 end
 #   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
 #   # if both numbers in the pair are even, then add both those numbers to the
